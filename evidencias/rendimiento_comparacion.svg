@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="480" viewBox="0 0 900 480">
+<rect width="100%" height="100%" fill="white"/>
+<text x="450.0" y="34" text-anchor="middle" font-family="Arial" font-size="22" font-weight="bold">Tiempo total por carga</text>
+<line x1="80" y1="70" x2="80" y2="370" stroke="#333"/>
+<line x1="80" y1="370" x2="860" y2="370" stroke="#333"/>
+<g font-family="Arial" fill="#222"><rect x="138.50" y="227.69" width="273.00" height="142.31" fill="#2463a6" rx="3"/><text x="275.00" y="219.69" text-anchor="middle" font-size="13">0.118s</text><text x="275.00" y="394.00" text-anchor="middle" font-size="12">1 transaccion</text><rect x="528.50" y="70.00" width="273.00" height="300.00" fill="#2463a6" rx="3"/><text x="665.00" y="62.00" text-anchor="middle" font-size="13">0.249s</text><text x="665.00" y="394.00" text-anchor="middle" font-size="12">100 transacciones</text></g>
+</svg>

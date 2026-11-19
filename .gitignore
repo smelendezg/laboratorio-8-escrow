@@ -1,0 +1,26 @@
+cat > .gitignore <<'EOF'
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# Archivos privados
+.env
+.env.*
+
+# Registros de ejecución
+*.log
+evidencias/journals/
+
+# Resultados generados
+evidencias/*.json
+evidencias/*.csv
+
+# Capturas temporales
+evidencias/capturas/
+EOF
